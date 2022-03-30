@@ -1,0 +1,1 @@
+A shop front and cart. The Shopfront built with react and styled components, back end managed by Express with a PostgreSQL database.
